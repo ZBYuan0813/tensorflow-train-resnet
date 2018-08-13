@@ -8,3 +8,7 @@
  
  ## Tfrecord.py 
  Contains nothing, do not add method that use tfrecord to generator train set
+ 
+ ## version
+ Tensorflow 1.7
+ python 3.6
